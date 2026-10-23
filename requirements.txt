@@ -1,0 +1,2 @@
+matplotlib-inline==0.2.2
+nest-asyncio2==1.7.4
